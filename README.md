@@ -47,7 +47,7 @@ Install the dependencies by cloning the repositories into your catkin workspace.
 
 `cd` to your catkin workspace source directory:
 ```
-git clone https://github.com/InstitutMaupertuis/fanuc_grinding.git &&\
+git clone https://github.com/arulfrances/fanuc_grinding.git &&\
 cd .. &&\
 catkin build
 ```
